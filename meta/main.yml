@@ -11,6 +11,6 @@ galaxy_info:
   galaxy_tags:
   - install
   - services
-  - ibm_cloud
+  - cloud
   - softlayer
   - bluemix
